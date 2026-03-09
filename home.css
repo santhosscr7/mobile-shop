@@ -1,0 +1,14 @@
+#header
+{
+    background-image: url(images/header-img.jpg);
+color: white;
+height: 700px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+    
+}
+.footer:hover
+{
+text-decoration: underline;
+}
